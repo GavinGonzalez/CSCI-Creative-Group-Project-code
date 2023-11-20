@@ -1,0 +1,8 @@
+
+
+
+MUST HAVES FOR THE PROJECT!
+
+* must use file input and output
+* must use functions(at least 3)
+* must use named constants
